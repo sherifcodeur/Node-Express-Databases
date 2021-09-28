@@ -1,0 +1,31 @@
+{
+  "name": "node-express-databases",
+  "version": "1.0.0",
+  "description": "using many types of database with nodejs express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherifcodeur/Node-Express-Databases.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "database"
+  ],
+  "author": "echcharif el idrissi ismail alias sherifcodeur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherifcodeur/Node-Express-Databases/issues"
+  },
+  "homepage": "https://github.com/sherifcodeur/Node-Express-Databases#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13"
+  }
+}
